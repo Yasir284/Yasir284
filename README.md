@@ -19,7 +19,7 @@
 ## 📡 Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/yasir lambawala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasir lambawala" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yasir-lambawala-2b216a1b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasir lambawala" height="30" width="40" /></a>
 <a href="https://instagram.com/web_dev_yasir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="web_dev_yasir" height="30" width="40" /></a>
 <a href="https://hashnode.com/@yasir2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@yasir2022" height="30" width="40" /></a>
 </p>
@@ -31,12 +31,12 @@
 
 ---
 
-<div><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=yasir284&show_icons=true&locale=en&layout=compact" alt="yasir284" /></div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasir284&show=javascript,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-<div><img  src="https://github-readme-stats.vercel.app/api?username=yasir284&show_icons=true&locale=en" alt="yasir284" /></div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasir284&show_icons=true&theme=radical)
 
 ---
 
-<div><img  src="https://github-readme-streak-stats.herokuapp.com/?user=yasir284&" alt="yasir284" /></div>
+<div><img  src="https://github-readme-streak-stats.herokuapp.com/?user=yasir284&theme=radical" alt="yasir284" /></div>
