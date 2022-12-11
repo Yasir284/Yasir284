@@ -35,7 +35,7 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasir284&show_icons=true&theme=radical)
+![Yasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasir284&show_icons=true&theme=radical)
 
 ---
 
