@@ -4,9 +4,9 @@
 
 ## 🤗 About me:
 
-- 🔭 I want to become **FullStack Web-Developer**
+- 🌱 I’m a **Frontend developer**
 
-- 🌱 I’m currently learning **to become FullStack web-developer**
+- 🔭 I'm currently learning to become **FullStack Javascript Web-Developer**
 
 - 📝 I write articles on [https://cssselectors.hashnode.dev/](https://cssselectors.hashnode.dev/)
 
