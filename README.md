@@ -4,15 +4,17 @@
 
 ## 🤗 About me:
 
-- 🌱 I’m a **Frontend developer**
+- 🌱 I’m a **FullStack Javascript Web-Developer**
 
-- 🔭 I'm currently learning to become **FullStack Javascript Web-Developer**
+- 🔭 I'm currently exploring **Backend**
+
+- 👨‍💻 All of my projects are available at [https://portfolio-by-yasir.netlify.app/](https://portfolio-by-yasir.netlify.app/)
 
 - 📝 I write articles on [https://cssselectors.hashnode.dev/](https://cssselectors.hashnode.dev/)
 
 - 📫 How to reach me **lambawalay@gmail.com**
 
-- ⚡ Fun fact **I love Food**
+- ⚡ Fun fact **I love to watch Sci-fi movies and anime**
 
 ---
 
