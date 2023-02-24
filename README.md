@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasir Lambawala</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full-stack developer from India</h3>
 <img src='https://media2.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47ufnespy1x2655bxrahzr1fks8fhsiopwq34ow1f7&rid=giphy.gif&ct=g' alt='coding' width='400' align='right' />
 
 ## 🤗 About me:
